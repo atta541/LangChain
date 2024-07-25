@@ -10,6 +10,7 @@ Here are screenshots of the application:
 
 <img src="https://raw.githubusercontent.com/atta541/LangChain/main/Screenshot%202024-07-25%20202154.png" width="500">
 <img src="https://raw.githubusercontent.com/atta541/LangChain/main/Screenshot%202024-07-25%20202154.png" width="500">
+<img src="https://raw.githubusercontent.com/atta541/LangChain/main/Screenshot%202024-06-05%20165314.png" width="500">
 
 ## 🛠 Skills
 
