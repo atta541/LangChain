@@ -8,9 +8,8 @@ This project allows users to ask questions to a chatbot, which uses an LLM model
 
 Here are screenshots of the application:
 
-<img src="https://raw.githubusercontent.com/atta541/LangChain/main/Screenshot%202024-07-25%20202154.png" width="500">
-<img src="https://raw.githubusercontent.com/atta541/LangChain/main/Screenshot%202024-07-25%20202154.png" width="500">
-<img src="https://raw.githubusercontent.com/atta541/LangChain/main/Screenshot%202024-06-05%20165314.png" width="500">
+<img src="https://raw.githubusercontent.com/atta541/LangChain/main/Screenshot%202024-07-25%20202154.png" width="600">
+<img src="https://raw.githubusercontent.com/atta541/LangChain/main/Screenshot%202024-06-05%20165314.png" width="600">
 
 ## 🛠 Skills
 
